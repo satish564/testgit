@@ -1,1 +1,3 @@
 thisis my first text file thisis my first text file thisis my first text file thisis my first text file thisis my first text file
+
+GridDB is faster than the leading NoSQL databases. Try GridDB now! GridDB's in-memory architecture provides true performance, scalability, and availability. Sign Up Online. View Pricing. Features: High Reliability, High Performance.
